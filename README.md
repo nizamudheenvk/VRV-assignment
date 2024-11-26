@@ -35,7 +35,7 @@ This **React**-bases application allows users to manage employee details based o
   ## /API 
   - in this priject i used **Axios** Api. 
  
-  ## /implemetd UI designs 
+  ## /implementd UI designs 
   - Modal
   - table  
 

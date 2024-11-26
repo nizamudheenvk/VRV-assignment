@@ -49,7 +49,6 @@ This **React**-bases application allows users to manage employee details based o
 ## Deployment
 
 ### Backend Deployment on Render
-- deployed link : 
+- deployed link : https://rbac-server.onrender.com/
+  
 
-### Frontend Deployment on Vercel
-- deployed link :

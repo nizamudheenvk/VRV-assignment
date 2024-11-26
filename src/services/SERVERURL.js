@@ -1,3 +1,3 @@
-const SERVERURL = "https://rbac-server-1.onrender.com"
+const SERVERURL = "https://rbac-server.onrender.com"
 
 export default SERVERURL
